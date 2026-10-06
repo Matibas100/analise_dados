@@ -1,0 +1,5 @@
+AULAS DE STREAMLIT
+
+streamili_aula1: primeiros passos, tabela de notas e calculadora de supermercado.
+
+O código, os prints e as instruções de execução estão na pasta da aula.
