@@ -1,0 +1,23 @@
+PRIMEIROS PASSOS COM STREAMLIT
+
+Abra o terminal na pasta streamilit/aula1.
+
+Na primeira execução, instale as bibliotecas:
+
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+
+Para iniciar o aplicativo:
+
+.\.venv\Scripts\python.exe -m streamlit run app.py
+
+O aplicativo abre em http://localhost:8501.
+Para parar o servidor, pressione Ctrl+C no terminal.
+
+Prints da aula:
+01_ola_mundo.png: primeira versão, com a mensagem Olá, mundo.
+02_nome_idade.png: segunda versão, com nome e idade.
+03_meu_primeiro_dash.png: versão com título, subtítulo e tabela de notas.
+04_supermercado.png: versão final, com calculadora de compras.
+
+As notas e os preços dos produtos são exemplos da atividade.
