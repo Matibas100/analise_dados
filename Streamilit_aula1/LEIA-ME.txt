@@ -1,6 +1,6 @@
 PRIMEIROS PASSOS COM STREAMLIT
 
-Abra o terminal na pasta Streamilit/streamili_aula1.
+Abra o terminal na pasta Streamilit_aula1.
 
 Na primeira execução, instale as bibliotecas:
 
